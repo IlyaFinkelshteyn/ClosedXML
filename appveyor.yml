@@ -17,7 +17,7 @@ assembly_info:
   assembly_informational_version: "{version}"
 
 version: 0.8.{build}
-platform: Any CPU
+#platform: Any CPU
 configuration : Release
 
 build:
